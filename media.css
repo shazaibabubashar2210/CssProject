@@ -1,0 +1,88 @@
+@media all and (max-width: 300px) {
+  .container {
+    height: fit-content;
+  }
+  .container h1 {
+    font-size: 1rem;
+  }
+  .content p {
+    font-size: 0.6rem;
+  }
+  button {
+    padding: 0.3rem 0.5rem;
+  }
+  /*Section-a*/
+  .maincontianer {
+    height: fit-content;
+  }
+  .section-a {
+    font-size: 0.5rem;
+    padding: 1rem 1rem;
+  }
+  .section-b {
+    font-size: 0.5rem;
+    padding: 1rem 1rem;
+  }
+  #box1 {
+    padding: 0.6rem;
+  }
+  #box1 p {
+    font-size: 0.5rem;
+  }
+  #box2 {
+    padding: 0.6rem;
+  }
+  #box2 p {
+    font-size: 0.5rem;
+  }
+  #box3 {
+    padding: 0.6rem;
+  }
+  #box3 p {
+    font-size: 0.5rem;
+  }
+}
+@media all and (min-width: 301px) and (max-width: 650px) {
+  .container {
+    height: fit-content;
+  }
+  .container h1 {
+    font-size: 1rem;
+  }
+  .content p {
+    font-size: 0.6rem;
+  }
+  button {
+    padding: 0.3rem 0.5rem;
+  }
+  /*Section-a*/
+  .maincontianer {
+    height: fit-content;
+  }
+  .section-a {
+    font-size: 0.5rem;
+    padding: 1rem 1rem;
+  }
+  .section-b {
+    font-size: 0.5rem;
+    padding: 1rem 1rem;
+  }
+  #box1 {
+    padding: 0.6rem;
+  }
+  #box1 p {
+    font-size: 0.5rem;
+  }
+  #box2 {
+    padding: 0.6rem;
+  }
+  #box2 p {
+    font-size: 0.5rem;
+  }
+  #box3 {
+    padding: 0.6rem;
+  }
+  #box3 p {
+    font-size: 0.5rem;
+  }
+}
